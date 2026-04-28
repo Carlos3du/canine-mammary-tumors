@@ -27,8 +27,3 @@ Logistic Regression (l2-liblinear-1.0)
 
 
 ######## RANDOM FOREST ########
-Random Forest - Base 
-    AUC-ROC: 0.7631 | Brier Score: 0.0250
-
-Random Forest - Base (class balanced)
-    AUC-ROC: 0.7606 | Brier Score: 0.1891
