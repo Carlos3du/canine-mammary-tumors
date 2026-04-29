@@ -27,3 +27,9 @@ Logistic Regression (l2-liblinear-1.0)
 
 
 ######## RANDOM FOREST ########
+
+--- RESULTADOS DO GRID SEARCH ---
+Melhor nota AUC-ROC durante o treino: 0.785
+Melhores parâmetros encontrados:
+{'max_depth': 11, 'min_samples_leaf': 10, 'min_samples_split': 2, 'n_estimators': 1000}
+Random Forest (Grid Search) -> AUC-ROC: 0.761 | Brier Score: 0.195
