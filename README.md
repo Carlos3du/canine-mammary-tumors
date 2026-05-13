@@ -1,4 +1,4 @@
-# Tumores Mamários Caninos — Reprodução Epidemiológica e Modelagem
+# Reprodução e Expansão do Estudo Epidemiológico de Tumores Mamários Caninos nas Ilhas Canárias: Uma Aborgagem de Classificação Binária. 
 
 Este repositório reúne análises sobre tumores mamários caninos com dois focos principais:
 
